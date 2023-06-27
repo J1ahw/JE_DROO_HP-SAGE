@@ -27,4 +27,4 @@ That code for common online takeaway platform in UK. After download orders' file
 * Find detail payment information.
 * Export to excel file.
 
-# U can't imagine how much time it saved for me. One client was asked for five years just eat takings. And I use half hour to finish it (most time was wasted on download five years DOC files). That normally needs my half day.
+# U can't imagine how much time it saved for me. One client was asked for five years JustEat takings. And I use half hour to finish it (most time was wasted on download five years DOC files). That normally needs my half day.
