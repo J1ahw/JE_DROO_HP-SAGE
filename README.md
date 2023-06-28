@@ -19,6 +19,7 @@ That code for common online takeaway platform in UK. After download orders' file
 * Download pdf files and read with pdfplumber.
 * Collect taking and fees easily.
 * Export to excel file.
+![10fe9205c4b6b7eab24ed1cc2ff7cb1](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/3765f934-8a74-440b-a202-9f4e2efe21f9)
 
 # Sage
 * That is not online platform.
