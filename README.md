@@ -8,17 +8,26 @@ That code for common online takeaway platform in UK. After download orders' file
 * Calculate Commission fees and PAS.
 * Export to excel file.
 * The reason for two verison 'autoje_JMT.py' and 'AUTO_JE.py' is that I have two teamleaders who have different requirment. XD
-  
+* Complex Version
+  ![741f1beb41872df3478b3658697def1](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/3a66075b-b5d9-41a9-bad3-a91cc8200b57)![2a514f1acbc43fdc5b13f498fff3a4b](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/c20675b1-d7e2-4a1a-9cab-5edbea4a9bd6)
+
+* EZ Version 
+![ad1928b6c56e51efe1947b1512817d7](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/428b548b-5650-4048-af3a-96d552871d89)
+
+
 # Deliveroo
 * Deliveroo platform support CSV files for weekly invoices which are easy for Pandas.
 * Notice in line 33, some restaurants need to pay £20 commission fees extra.
 * If no commission, then delete it.
 * Export to excel file.
 
+![65ac917ed467866eecf9c37164c4acb](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/3f62a9ca-c684-4a91-8d93-c2de26199608)
+
 # Hungry panda
 * Download pdf files and read with pdfplumber.
 * Collect taking and fees easily.
 * Export to excel file.
+
 ![10fe9205c4b6b7eab24ed1cc2ff7cb1](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/3765f934-8a74-440b-a202-9f4e2efe21f9)
 
 # Sage
@@ -27,5 +36,7 @@ That code for common online takeaway platform in UK. After download orders' file
 * Divide with 'Process Date:' for monthly payment.
 * Find detail payment information.
 * Export to excel file.
+
+![23d1202266edd76a73aca8a60ac154a](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/58a30d5c-3a06-49ab-8de0-e447138f1a27)
 
 # U can't imagine how much time it saved for me. One client was asked for five years JustEat takings. And I use half hour to finish it (most time was wasted on download five years DOC files). That normally needs my half day.
