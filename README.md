@@ -10,12 +10,11 @@ That code for common online takeaway platform in UK. After download orders' file
 * The reason for two verison 'autoje_JMT.py' and 'AUTO_JE.py' is that I have two teamleaders who have different requirment. XD
 * Complex Version
 
-![0e2cca6ada28299eb1d5e303cd38937](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/a8c7cad4-ac3c-4849-9811-1fc697541462)  ![2a514f1acbc43fdc5b13f498fff3a4b](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/c20675b1-d7e2-4a1a-9cab-5edbea4a9bd6)
+![4cf1922c705f1110672ece71fc71690](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/ec8f9f64-e23f-4908-87a4-e9e92e853251)  +  ![159947bff34f2389243edeadcd00a24](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/2f2c078c-e1d3-4f9c-9e11-975c33a25500)
 
 * EZ Version
 
-![ad1928b6c56e51efe1947b1512817d7](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/428b548b-5650-4048-af3a-96d552871d89)
-
+![9742dd4f101013b49d28c3ddb77d27e](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/c9a5d532-e9ad-4ab3-a8d2-7b2a721ccb06)
 
 # Deliveroo
 * Deliveroo platform support CSV files for weekly invoices which are easy for Pandas.
@@ -23,7 +22,7 @@ That code for common online takeaway platform in UK. After download orders' file
 * If no commission, then delete it.
 * Export to excel file.
 
-![65ac917ed467866eecf9c37164c4acb](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/3f62a9ca-c684-4a91-8d93-c2de26199608)
+![11f674aac3a4820a76eac6c522f526c](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/1ed67b05-234f-4a88-9890-b4d006bae54f)
 
 # Hungry panda
 * Download pdf files and read with pdfplumber.
