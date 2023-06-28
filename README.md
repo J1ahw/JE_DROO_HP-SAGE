@@ -9,9 +9,12 @@ That code for common online takeaway platform in UK. After download orders' file
 * Export to excel file.
 * The reason for two verison 'autoje_JMT.py' and 'AUTO_JE.py' is that I have two teamleaders who have different requirment. XD
 * Complex Version
-  ![741f1beb41872df3478b3658697def1](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/3a66075b-b5d9-41a9-bad3-a91cc8200b57)![2a514f1acbc43fdc5b13f498fff3a4b](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/c20675b1-d7e2-4a1a-9cab-5edbea4a9bd6)
 
-* EZ Version 
+![Uploading 0e2cca6ada28299eb1d5e303cd38937.png…]()
+  ![2a514f1acbc43fdc5b13f498fff3a4b](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/c20675b1-d7e2-4a1a-9cab-5edbea4a9bd6)
+
+* EZ Version
+
 ![ad1928b6c56e51efe1947b1512817d7](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/428b548b-5650-4048-af3a-96d552871d89)
 
 
