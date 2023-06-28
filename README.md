@@ -10,9 +10,7 @@ That code for common online takeaway platform in UK. After download orders' file
 * The reason for two verison 'autoje_JMT.py' and 'AUTO_JE.py' is that I have two teamleaders who have different requirment. XD
 * Complex Version
 
-![0e2cca6ada28299eb1d5e303cd38937](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/a8c7cad4-ac3c-4849-9811-1fc697541462)
-
-![2a514f1acbc43fdc5b13f498fff3a4b](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/c20675b1-d7e2-4a1a-9cab-5edbea4a9bd6)
+![0e2cca6ada28299eb1d5e303cd38937](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/a8c7cad4-ac3c-4849-9811-1fc697541462)![2a514f1acbc43fdc5b13f498fff3a4b](https://github.com/J1ahw/JE_DROO_SAGE/assets/123384453/c20675b1-d7e2-4a1a-9cab-5edbea4a9bd6)
 
 * EZ Version
 
